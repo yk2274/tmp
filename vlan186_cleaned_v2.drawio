@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="r-dGHsCfkOPpjAy5xpAU">
-    <mxGraphModel dx="1616" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3687" dy="2656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="5V1QnATYMXQ09W3C-hFS-50" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;vor386&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /n6, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- vortest.pen.skyechip.com:443&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="75" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="5V1QnATYMXQ09W3C-hFS-51" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx386&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /n6, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx.pen.skyechip.com:443&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="240" x="75" y="330" as="geometry" />
+        <mxCell id="5V1QnATYMXQ09W3C-hFS-51" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx386&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /n6, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx.pen.skyechip.com:8420&lt;/div&gt;&lt;div&gt;- pdx-odc.pen.skyechip.com:8421&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="75" y="325" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-52" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp386&lt;/b&gt;&lt;div&gt;- 8 CPU, 16GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="75" y="420" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="5V1QnATYMXQ09W3C-hFS-71" parent="5V1QnATYMXQ09W3C-hFS-69" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;jen50&lt;/b&gt;&lt;div&gt;- ports 8080, 8081, 29418&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="190" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="5V1QnATYMXQ09W3C-hFS-88" parent="5V1QnATYMXQ09W3C-hFS-69" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;openproject&lt;/b&gt;&lt;div&gt;- ports 8080, 5432&lt;/div&gt;" vertex="1">
+        <mxCell id="5V1QnATYMXQ09W3C-hFS-88" parent="5V1QnATYMXQ09W3C-hFS-69" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;openproject.pen.&lt;/b&gt;&lt;div&gt;&lt;b&gt;skyechip.com&lt;/b&gt;&lt;div&gt;- ports 8080, 5432&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="20" y="55" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-89" parent="5V1QnATYMXQ09W3C-hFS-69" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;smai50&lt;/b&gt;&lt;div&gt;- port 11434&lt;/div&gt;" vertex="1">
@@ -85,8 +85,8 @@
         <mxCell id="5V1QnATYMXQ09W3C-hFS-83" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;vor286&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /n7, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- vortest-sc.pen.skyechip.com:443&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="90" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="5V1QnATYMXQ09W3C-hFS-84" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx286&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx-sc.pen.skyechip.com:443&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="240" x="90" y="210" as="geometry" />
+        <mxCell id="5V1QnATYMXQ09W3C-hFS-84" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx286&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx-sc.pen.skyechip.com:8420&lt;/div&gt;&lt;div&gt;- pdx-sc-odc.pen.skyechip.com:8421&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="90" y="205" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-85" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp286&lt;/b&gt;&lt;div&gt;- 8 CPU, 16GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="90" y="300" as="geometry" />
@@ -289,10 +289,10 @@
         <mxCell id="bwAfntK2GFKm5ZFmgBVJ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ODC core network" vertex="1">
           <mxGeometry height="120" width="250" x="640" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="windows-vpn-1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Windows (with VPN)">
-          <mxGeometry x="320" y="1050" width="220" height="120" as="geometry" />
+        <mxCell id="windows-vpn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Windows (with VPN)" vertex="1">
+          <mxGeometry height="120" width="220" x="320" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="kck-v180l" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-41" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.1111;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0417;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-v180l" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.1111;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0417;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-40" y="30" />
@@ -302,7 +302,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-odcl" parent="1" edge="1" source="bwAfntK2GFKm5ZFmgBVJ-5" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.5;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.125;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-odcl" edge="1" parent="1" source="bwAfntK2GFKm5ZFmgBVJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.5;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.125;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="950" />
@@ -310,7 +310,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-cnl" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-42" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.75;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-cnl" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.75;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="345" y="950" />
@@ -318,7 +318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-vor386" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-50" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.375;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-vor386" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.375;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="345" y="555" />
@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-pdx386" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-51" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4583;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-pdx386" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4583;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="345" y="645" />
@@ -336,7 +336,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-cnr" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-70" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.0;exitY=0.9286;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5417;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-cnr" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.0;exitY=0.9286;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5417;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="250" />
@@ -345,7 +345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-win" parent="1" edge="1" source="windows-vpn-1" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.6818;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-win" edge="1" parent="1" source="windows-vpn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.6818;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="950" />
@@ -353,7 +353,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-vor286" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-83" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.7857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-vor286" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.7857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1050" y="585" />
@@ -362,7 +362,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-pdx286" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-84" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.7857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9583;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-pdx286" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.7857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9583;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1050" y="675" />
@@ -371,20 +371,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="win-web386" parent="1" edge="1" source="windows-vpn-1" target="5V1QnATYMXQ09W3C-hFS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#000000;exitX=0.3182;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="win-web386" edge="1" parent="1" source="windows-vpn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#000000;exitX=0.3182;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" target="5V1QnATYMXQ09W3C-hFS-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="win-web386-label" parent="win-web386" vertex="1" connectable="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;horizontal=0;" value="project.pen.skyechip.com, machine.pen.skyechip.com">
-          <mxGeometry x="0.12" y="14" relative="1" as="geometry">
+        <mxCell id="win-web386-label" connectable="0" parent="win-web386" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;horizontal=0;" value="project.pen.skyechip.com, machine.pen.skyechip.com" vertex="1">
+          <mxGeometry relative="1" x="0.12" y="14" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="legend-lines-1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=4;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;Line colours&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#0072B2&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from CN&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009E73&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from VLAN180&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#D55E00&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from mcp386 / mcp286&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from Windows (with VPN)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC79A7&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; to kck286 (keycloak.pen.skyechip.com:443)&lt;/div&gt;">
-          <mxGeometry x="580" y="-230" width="310" height="120" as="geometry" />
+        <mxCell id="legend-lines-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=4;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;Line colours&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#0072B2&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from CN&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009E73&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from VLAN180&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#D55E00&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from mcp386 / mcp286&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from Windows (with VPN)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC79A7&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; to kck286 (keycloak.pen.skyechip.com:443)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="310" x="580" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="oHaSDu6TDw4gMvmnCrZ5-1" parent="1" style="line;strokeWidth=7;direction=south;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="960" width="35" x="408" y="502.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
