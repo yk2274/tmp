@@ -44,7 +44,7 @@
           <mxGeometry height="60" width="150" x="15" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-1" parent="1" style="line;strokeWidth=7;direction=south;html=1;" value="" vertex="1">
-          <mxGeometry height="1300" width="35" x="408" y="40" as="geometry" />
+          <mxGeometry height="960" width="35" x="408" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=38;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="PFCC 172.30.X.X" vertex="1">
           <mxGeometry height="80" width="310" x="-20" y="-60" as="geometry" />
@@ -260,8 +260,8 @@
         <mxCell id="bwAfntK2GFKm5ZFmgBVJ-3" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2917;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="450" />
-              <mxPoint x="370" y="950" />
+              <mxPoint x="345" y="450" />
+              <mxPoint x="345" y="950" />
               <mxPoint x="720" y="950" />
             </Array>
           </mxGeometry>
@@ -280,7 +280,7 @@
         <mxCell id="bwAfntK2GFKm5ZFmgBVJ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ODC core network" vertex="1">
           <mxGeometry height="120" width="250" x="35" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="bwAfntK2GFKm5ZFmgBVJ-10" edge="1" parent="1" source="bwAfntK2GFKm5ZFmgBVJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.64;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
+        <mxCell id="bwAfntK2GFKm5ZFmgBVJ-10" edge="1" parent="1" source="bwAfntK2GFKm5ZFmgBVJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.72;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="bwAfntK2GFKm5ZFmgBVJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bwAfntK2GFKm5ZFmgBVJ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ODC AI vlan" vertex="1">
@@ -290,7 +290,7 @@
           <mxGeometry height="120" width="250" x="640" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="windows-vpn-1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Windows (with VPN)">
-          <mxGeometry x="960" y="1010" width="200" height="120" as="geometry" />
+          <mxGeometry x="320" y="1050" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kck-v180l" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-41" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.1111;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0417;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -310,10 +310,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-cnl" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-42" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.8889;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-cnl" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-42" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.75;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="950" />
+              <mxPoint x="345" y="950" />
               <mxPoint x="700" y="950" />
             </Array>
           </mxGeometry>
@@ -321,8 +321,8 @@
         <mxCell id="kck-vor386" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-50" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.375;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="555" />
-              <mxPoint x="370" y="950" />
+              <mxPoint x="345" y="555" />
+              <mxPoint x="345" y="950" />
               <mxPoint x="740" y="950" />
             </Array>
           </mxGeometry>
@@ -330,8 +330,8 @@
         <mxCell id="kck-pdx386" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-51" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=1.0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4583;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="645" />
-              <mxPoint x="370" y="950" />
+              <mxPoint x="345" y="645" />
+              <mxPoint x="345" y="950" />
               <mxPoint x="760" y="950" />
             </Array>
           </mxGeometry>
@@ -345,11 +345,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kck-win" parent="1" edge="1" source="windows-vpn-1" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.5;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7083;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kck-win" parent="1" edge="1" source="windows-vpn-1" target="bwAfntK2GFKm5ZFmgBVJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=2;strokeColor=#CC79A7;exitX=0.6818;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.0;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="950" />
-              <mxPoint x="820" y="950" />
+              <mxPoint x="470" y="950" />
+              <mxPoint x="800" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -371,7 +371,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="legend-lines-1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=4;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;Line colours&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#0072B2&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from CN&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009E73&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from VLAN180&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#D55E00&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from mcp386 / mcp286&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC79A7&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; to kck286 (keycloak.pen.skyechip.com:443)&lt;/div&gt;">
+        <mxCell id="win-web386" parent="1" edge="1" source="windows-vpn-1" target="5V1QnATYMXQ09W3C-hFS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#000000;exitX=0.3182;exitY=0.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="win-web386-label" parent="win-web386" vertex="1" connectable="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;horizontal=0;" value="project.pen.skyechip.com, machine.pen.skyechip.com">
+          <mxGeometry x="0.12" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend-lines-1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=10;spacingTop=4;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;Line colours&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#0072B2&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from CN&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009E73&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from VLAN180&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#D55E00&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from mcp386 / mcp286&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; from Windows (with VPN)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#CC79A7&quot;&gt;&lt;b&gt;&amp;#8212;&amp;#8212;&lt;/b&gt;&lt;/font&gt; to kck286 (keycloak.pen.skyechip.com:443)&lt;/div&gt;">
           <mxGeometry x="580" y="-230" width="310" height="120" as="geometry" />
         </mxCell>
       </root>
