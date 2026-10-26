@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="r-dGHsCfkOPpjAy5xpAU">
-    <mxGraphModel dx="3687" dy="2656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="5V1QnATYMXQ09W3C-hFS-51" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx386&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /n6, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx.pen.skyechip.com:8420&lt;/div&gt;&lt;div&gt;- pdx-odc.pen.skyechip.com:8421&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="75" y="325" as="geometry" />
         </mxCell>
-        <mxCell id="5V1QnATYMXQ09W3C-hFS-52" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp386&lt;/b&gt;&lt;div&gt;- 8 CPU, 16GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
+        <mxCell id="5V1QnATYMXQ09W3C-hFS-52" parent="5V1QnATYMXQ09W3C-hFS-76" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp386&lt;/b&gt;&lt;div&gt;- 8 CPU, 8GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="75" y="420" as="geometry" />
         </mxCell>
         <mxCell id="5V1QnATYMXQ09W3C-hFS-64" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="5V1QnATYMXQ09W3C-hFS-84" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;pdx286&lt;/b&gt;&lt;div&gt;- 8 CPU, 32GB RAM&lt;/div&gt;&lt;div&gt;- mount /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- pdx-sc.pen.skyechip.com:8420&lt;/div&gt;&lt;div&gt;- pdx-sc-odc.pen.skyechip.com:8421&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="90" y="205" as="geometry" />
         </mxCell>
-        <mxCell id="5V1QnATYMXQ09W3C-hFS-85" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp286&lt;/b&gt;&lt;div&gt;- 8 CPU, 16GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
+        <mxCell id="5V1QnATYMXQ09W3C-hFS-85" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;mcp286&lt;/b&gt;&lt;div&gt;- 8 CPU, 8GB RAM&lt;/div&gt;&lt;div&gt;- mount /mcp, /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- ports 9101-9110&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="90" y="300" as="geometry" />
         </mxCell>
         <mxCell id="bwAfntK2GFKm5ZFmgBVJ-1" parent="5V1QnATYMXQ09W3C-hFS-78" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;kck286&lt;/b&gt;&lt;div&gt;- 8 CPU, 16GB RAM&lt;/div&gt;&lt;div&gt;- mount /home, /tools, /hdd (100GB)&lt;/div&gt;&lt;div&gt;- keycloak.pen.skyechip.com:443&lt;/div&gt;" vertex="1">
@@ -389,19 +389,19 @@
         <mxCell id="oHaSDu6TDw4gMvmnCrZ5-1" parent="1" style="line;strokeWidth=7;direction=south;html=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="960" width="35" x="408" y="502.5" as="geometry" />
         </mxCell>
-        <mxCell id="da-v180l-sql386" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-41" target="5V1QnATYMXQ09W3C-hFS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#009E73;exitX=0.0556;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="da-v180l-sql386" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#009E73;exitX=0.0556;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5V1QnATYMXQ09W3C-hFS-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-50" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="da-v180l-sql386-label" parent="da-v180l-sql386" vertex="1" connectable="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;" value="DA development purpose">
-          <mxGeometry x="-0.86" y="10" relative="1" as="geometry">
+        <mxCell id="da-v180l-sql386-label" connectable="0" parent="da-v180l-sql386" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;" value="DA development purpose" vertex="1">
+          <mxGeometry relative="1" x="-0.86" y="10" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="da-v180r-sql286" parent="1" edge="1" source="5V1QnATYMXQ09W3C-hFS-66" target="5V1QnATYMXQ09W3C-hFS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#009E73;exitX=0.1111;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.0;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="da-v180r-sql286" edge="1" parent="1" source="5V1QnATYMXQ09W3C-hFS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;jumpSize=8;strokeWidth=1.5;strokeColor=#009E73;exitX=0.1111;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=0.0;entryDx=0;entryDy=0;entryPerimeter=0;" target="5V1QnATYMXQ09W3C-hFS-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="380" />
@@ -409,8 +409,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="da-v180r-sql286-label" parent="da-v180r-sql286" vertex="1" connectable="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;" value="DA development purpose">
-          <mxGeometry x="0.158" y="-12" relative="1" as="geometry">
+        <mxCell id="da-v180r-sql286-label" connectable="0" parent="da-v180r-sql286" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#ffffff;" value="DA development purpose" vertex="1">
+          <mxGeometry relative="1" x="0.158" y="-12" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
